@@ -3,7 +3,7 @@
 
 Before Execute
  - should execute web server to vie "view-stream.html"
- - tested on Ubuntu 19.04, Chrome
+ - tested on Ubuntu 18.04, Chrome
  - camera device should be located at /dev/video0
  - should install ffmpeg 
 
